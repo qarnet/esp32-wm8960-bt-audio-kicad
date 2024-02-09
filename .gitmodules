@@ -1,0 +1,3 @@
+[submodule "kicad-symbolds-custom"]
+	path = kicad-symbolds-custom
+	url = git@github.com:qarnet/kicad-symbolds-custom.git
